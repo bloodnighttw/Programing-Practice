@@ -1,17 +1,17 @@
 # ZeroJudge-Practice
 my zerojudge practice.
 
-Editor:
+###### Editor:
   NeoVIM
-Language in this repo:
+###### Language in this repo:
   1.c++
-Plugin:
+###### Plugin:
   1.SpaceVim
   2.coc.nvim
   3.vundle
   4.vim-auto-save
   5.coc.snippets
-Language Server:
+###### Language Server:
   ccls
 
 
